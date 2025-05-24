@@ -1,6 +1,6 @@
 # Dr. Dur-E-Kashaf Portfolio Website
 
-![Portfolio Preview](screenshots/preview.png)
+![Portfolio Preview](https://i.pinimg.com/736x/55/7d/3d/557d3d2fb3512a7adc9dd7c35fc296ab.jpg)
 
 ## 📋 Overview
 
