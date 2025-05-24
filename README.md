@@ -19,7 +19,7 @@ A modern, responsive, and animated portfolio website for Dr. Dur-E-Kashaf, a den
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/dr-kashaf-portfolio/) <!-- Replace with your actual GitHub Pages URL -->
+[View Live Demo](https://dr-dure-e-kashaf.netlify.app/) <!-- Replace with your actual GitHub Pages URL -->
 
 ## 🛠️ Technologies Used
 
